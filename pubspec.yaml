@@ -1,20 +1,16 @@
 name: flutter_degen_annotations
-description: Annotations for flutter_degen project
-version: 1.2.0
+version: 1.2.0+1
 homepage: https://github.com/SunnyApp/flutter_degen_annotations
-repository: https://github.com/SunnyApp/flutter_degen_annotations
 documentation: https://github.com/SunnyApp/flutter_degen
+description: Annotations for flutter_degen project
+repository: https://github.com/SunnyApp/flutter_degen_annotations
 issue_tracker: https://github.com/SunnyApp/flutter_degen/isssues
-authors:
-  - Eric Martineau <eric@sunnyapp.co>
-
-environment:
+environment: 
   sdk: '>=2.7.0 <3.0.0'
-
-dependencies:
-
-dev_dependencies:
-  test:
-  test_coverage:
-  effective_dart:
-  build_test:
+dev_dependencies: 
+  test: any
+  test_coverage: any
+  effective_dart: any
+  build_test: any
+authors: 
+  - Eric Martineau <eric@sunnyapp.co>
