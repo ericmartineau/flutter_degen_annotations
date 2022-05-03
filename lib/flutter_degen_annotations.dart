@@ -6,5 +6,7 @@ class delegate {
   /// Method/property names to include
   final List<String> include;
 
-  const delegate({this.exclude, this.include});
+  final bool implementDelegate;
+
+  const delegate({this.exclude, this.include, this.implementDelegate = false});
 }
