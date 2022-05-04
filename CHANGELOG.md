@@ -1,3 +1,7 @@
+## 1.7.0
+
+ - **FEAT**: updated annotations.
+
 ## 1.6.0
 
  - **FEAT**: Major bump since project was pulled out.
