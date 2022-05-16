@@ -123,9 +123,9 @@ packages:
   dartxx:
     dependency: "direct dev"
     description:
-      name: dartxx
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "/Users/ericm/sunny/player_rank/packages/dartxx"
+      relative: false
+    source: path
     version: "0.5.5"
   effective_dart:
     dependency: "direct dev"
