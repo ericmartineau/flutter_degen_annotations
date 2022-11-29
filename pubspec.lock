@@ -123,8 +123,8 @@ packages:
   dartxx:
     dependency: "direct dev"
     description:
-      path: "/Users/ericm/sunny/player_rank/packages/dartxx"
-      relative: false
+      path: "../dartxx"
+      relative: true
     source: path
     version: "0.5.5"
   effective_dart:
@@ -140,7 +140,7 @@ packages:
       name: equatable
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.3"
+    version: "2.0.5"
   file:
     dependency: transitive
     description:
