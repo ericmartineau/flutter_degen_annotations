@@ -13,4 +13,6 @@ dev_dependencies:
   effective_dart: ^1.3.2
   build_test: ^2.1.5
   dartxx: 
-    path: /Users/ericm/sunny/trippi_plugins/dartxx
+    git: 
+      url: git@github.com:ericmartineau/dartxx.git
+      ref: trippi_app
